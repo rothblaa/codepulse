@@ -28,7 +28,7 @@ import { MarkdownModule } from 'ngx-markdown';
     AppRoutingModule,
     FormsModule,
     HttpClientModule,
-    MarkdownModule,
+    MarkdownModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]

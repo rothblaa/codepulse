@@ -1,0 +1,9 @@
+#content {
+  height: 350px;
+  max-height: 350px;
+}
+
+#rightColContent {
+  max-height: 350px;
+  overflow-y: scroll;
+}
