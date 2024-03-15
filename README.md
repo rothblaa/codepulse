@@ -1,7 +1,7 @@
 # Info:
 
-This project was completed after normal working hours to gain familiarity with new, and touch up on the rustiness of some, .NET features and integrate that knowledge
-with my current frontend capabilities. 
+This project was completed after normal working hours to gain familiarity with new, and touch up on the rustiness of some, .NET, Angular, and Rest API features 
+and integrate that knowledge with my current frontend toolset. 
 
 # Codepulse
 
