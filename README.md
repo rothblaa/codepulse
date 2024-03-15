@@ -1,3 +1,8 @@
+# Info:
+
+This project was completed after normal working hours to gain familiarity with new, and touch up on the rustiness of some, .NET features and integrate that knowledge
+with my current frontend capabilities. 
+
 # Codepulse
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
